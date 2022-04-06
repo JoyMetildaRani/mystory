@@ -3,3 +3,5 @@ Once upon a time there was a monkey living by the riverside on the Jamun tree. C
 
 
 monkey was innocent but crocodile was cunning.
+
+Monkey used to give few Jamun fruits to the crocodile.
